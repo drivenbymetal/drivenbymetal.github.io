@@ -14,7 +14,7 @@
 |GLPI| Develop/Test |
 |Security Onion | Test |
 |Grafana| Develop |
-|||
+
 </td><td>
 
 |Tech Project|Location|
@@ -25,6 +25,5 @@
 |PC Build|Office|
 |Server Build|Office|
 |Network Rack Build | Office |
-| | |
-|||
+
 </td></tr> </table>
